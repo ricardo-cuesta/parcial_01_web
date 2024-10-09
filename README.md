@@ -1,6 +1,7 @@
 # Definición del problema
 materia desarrollo pagina web 
 profesor EMANUEL FERNANDO MONTOYA GÓMEZ
+Titulo: Aplicación de Recomendación de Películas
 
 En la actualidad, muchos usuarios que disfrutan de ver películas en línea encuentran difícil descubrir nuevas opciones que se adapten a sus gustos personales. Aunque algunas plataformas ofrecen recomendaciones, estas suelen ser bastante generales y no siempre coinciden con los intereses de cada persona. Esto dificulta la búsqueda de películas que realmente les gusten, obligando a los usuarios a invertir mucho tiempo en encontrar contenido adecuado. Además, algunas plataformas carecen de herramientas sencillas para filtrar películas según criterios como género, año o director, lo que a menudo resulta en una experiencia frustrante.
 
